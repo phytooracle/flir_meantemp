@@ -1,0 +1,6 @@
+liblas
+geopandas
+scikit-build
+cmake
+opencv-python
+tifffile
